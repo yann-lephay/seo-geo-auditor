@@ -1,0 +1,21 @@
+{
+  "name": "seo-geo-auditor",
+  "version": "0.1.0",
+  "description": "SEO + GEO auditor with fan-out query methodology for Next.js sites. 3-score system (GEO, Fan-Out Coverage, Next.js SEO), gap detection, actionable code deltas.",
+  "author": {
+    "name": "Yann"
+  },
+  "repository": "https://github.com/yanMusic/seo-geo-auditor",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "geo",
+    "nextjs",
+    "programmatic-seo",
+    "fan-out-queries",
+    "audit",
+    "semantic-coverage",
+    "structured-data",
+    "schema-org"
+  ]
+}
